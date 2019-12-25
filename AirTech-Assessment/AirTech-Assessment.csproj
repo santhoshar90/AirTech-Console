@@ -5,7 +5,6 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <RootNamespace>AirTech_Assessment</RootNamespace>
   </PropertyGroup>
-
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DocumentationFile></DocumentationFile>
   </PropertyGroup>
