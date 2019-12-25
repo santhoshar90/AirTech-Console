@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AirTech-Assessment": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
